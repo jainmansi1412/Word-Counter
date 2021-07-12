@@ -1,0 +1,33 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body{
+ padding:50px 100px;
+}
+.title{
+    border: 2px solid #0067B0;
+    padding:10px 10px;
+    width:100%;
+    text-align: center;
+    background-color:#0067B0;
+    color: white;
+    user-select: none;
+}
+#textbox{
+    border: 2px solid black;
+    width: 100%;
+    font-size: 1.5rem;
+
+}
+p{
+    border: 1px solid #0067B0;
+    text-align: center;
+    background-color:#0067B0;
+    padding: 15px 5px;
+    color: white;
+    font: weight 200px; 
+font-size: 25px;
+}
